@@ -12,7 +12,9 @@ This repository provides Python code for calculating the value of the RUWE from 
 columns in the Gaia DR2 Archive.  An accompanying notebook shows how to use the code by reproducing one
 of the plots in the above mentioned presentation slides.
 
+__NOTE__ The Gaia DR2 mirror at [ARI (Heidelberg)](http://gaia.ari.uni-heidelberg.de/) provides the RUWE as a table column, so you can filter on the RUWE values directly in your ADQL query.
+
 ## Requirements
-* Numpy
-* Matplotlib
-* Astropy
+* [Numpy](https://www.numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Astropy](http://www.astropy.org/)
