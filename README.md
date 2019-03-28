@@ -6,5 +6,5 @@ is to use the so-called Renormalized Unit Weight Error (RUWE) to filter out sour
 spurious parallaxes or proper motions. Details are in these [presentation slides](https://www.cosmos.esa.int/documents/29201/1770596/Lindegren_GaiaDR2_Astrometry_extended.pdf/1ebddb25-f010-6437-cb14-0e360e2d9f09) and
 in [this technical note](http://www.rssd.esa.int/doc_fetch.php?id=3757412).
 
-This repository provide Python code for calculating the value of the RUWE from the relevant table columns in the Gaia DR2 Archive.
+This repository provides Python code for calculating the value of the RUWE from the relevant table columns in the Gaia DR2 Archive. 
 An accompanying notebook shows how to use the code by reproducing one of the plots in the above mentioned presentation slides.
